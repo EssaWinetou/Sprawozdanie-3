@@ -1,0 +1,33 @@
+<HTML>
+
+<HEAD>
+
+<TITLE>Your Title Here</TITLE>
+
+</HEAD>
+
+<BODY BGCOLOR="FFFFFF">
+
+<CENTER><IMG SRC="clouds.jpg" ALIGN="BOTTOM"> </CENTER>
+
+<HR>
+
+<a href="wp.pl">wp</a>
+
+
+<H1>naglowek</H1>
+
+<H2>nnnnnnn</H2>
+
+
+<P> paragraph
+
+
+
+<HR>
+
+</BODY>
+
+</HTML>
+
+<p>$2613</p>
